@@ -1,0 +1,24 @@
+.links :hover {
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#writing a {
+    text-decoration: underline !important;
+    color: blue !important;
+}
+
+#contact{
+    background: lime;
+}
+
+.contact_1 h3
+{
+    display: inline;
+}
+
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
